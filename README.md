@@ -57,7 +57,6 @@ The TF-IDF vectorizer uses:
 
 The ensemble uses soft voting to combine predictions.
 
-## Usage
 
 
 
